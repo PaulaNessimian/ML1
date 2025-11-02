@@ -10,11 +10,16 @@ A base utilizada foi o Telco Customer Churn Dataset, disponibilizado pela IBM no
 
 Metodologia - O processo envolveu as etapas de:
 
-Análise exploratória e limpeza dos dados
-Pré-processamento com Pipeline e ColumnTransformer
-Balanceamento de classes com SMOTE
-Normalização e redução de dimensionalidade com TruncatedSVD
-Treinamento e validação com diversos modelos (KNN, Decision Tree, Random Forest, XGBoost, Naive Bayes)
+Análise exploratória e limpeza dos dados;
+
+Pré-processamento com Pipeline e ColumnTransformer;
+
+Balanceamento de classes com SMOTE;
+
+Normalização e redução de dimensionalidade com TruncatedSVD;
+
+Treinamento e validação com diversos modelos (KNN, Decision Tree, Random Forest, XGBoost, Naive Bayes);
+
 Fine tuning de hiperparâmetros do XGBoost
 
 Conclusão:
